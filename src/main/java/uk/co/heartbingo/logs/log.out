@@ -1,0 +1,452 @@
+2023-06-11 11:06:389 INFO  HomePage :25 - Mouse Hover And Click On Sign Up
+2023-06-11 11:06:723 INFO  HomePage :25 - Mouse Hover And Click On Sign Up
+2023-06-11 11:06:388 INFO  HomePage :34 - Mouse Hover And Click On  Accept Cookies
+2023-06-11 11:06:492 INFO  HomePage :34 - Mouse Hover And Click On  Accept Cookies
+2023-06-11 11:06:779 INFO  HomePage :33 - Clicking on the SignUp Link
+2023-06-11 11:06:156 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:430 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:863 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:633 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:624 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:228 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:940 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:05 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:411 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:730 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:472 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:909 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:507 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:221 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:216 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:388 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:977 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 12:06:171 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:02 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:822 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:21 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:23 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:633 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:715 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:70 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 13:06:710 INFO  HomePage :28 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:225 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:852 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:852 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:318 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:757 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:466 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:463 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:865 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:602 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:85 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:800 INFO  SignUpPage :30 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (fd40a24c5256a2f45df97f05c412c598)] -> xpath: //input[@id='first_name']]
+2023-06-11 14:06:826 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:547 INFO  SignUpPage :30 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (faa4b2c967e5352507b3adac3e68f1ef)] -> xpath: //input[@id='first_name']]
+2023-06-11 14:06:948 INFO  SignUpPage :36 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (faa4b2c967e5352507b3adac3e68f1ef)] -> xpath: //input[@id='last_name']]
+2023-06-11 14:06:211 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:354 INFO  SignUpPage :37 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (3131ca308c9e1d8a1e9f29992fe3093d)] -> xpath: //input[@id='first_name']]
+2023-06-11 14:06:744 INFO  SignUpPage :43 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (3131ca308c9e1d8a1e9f29992fe3093d)] -> xpath: //input[@id='last_name']]
+2023-06-11 14:06:964 INFO  SignUpPage :48 - Clicking on Continue Button
+2023-06-11 14:06:572 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:242 INFO  SignUpPage :40 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (423a0ea8da7948fa9fff2f65456fb547)] -> xpath: //input[@id='first_name']]
+2023-06-11 14:06:798 INFO  SignUpPage :46 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (423a0ea8da7948fa9fff2f65456fb547)] -> xpath: //input[@id='last_name']]
+2023-06-11 14:06:41 INFO  SignUpPage :51 - Clicking on Continue Button
+2023-06-11 14:06:267 INFO  SignUpPage :57 - Clicking on Gender Male Button
+2023-06-11 14:06:489 INFO  HomePage :35 - Mouse Hover And Click On Sign Up
+2023-06-11 14:06:462 INFO  SignUpPage :40 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (f4031e0fc048f5a356688869737bf47a)] -> xpath: //input[@id='first_name']]
+2023-06-11 14:06:872 INFO  SignUpPage :46 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (f4031e0fc048f5a356688869737bf47a)] -> xpath: //input[@id='last_name']]
+2023-06-11 14:06:96 INFO  SignUpPage :51 - Clicking on Continue Button
+2023-06-11 14:06:339 INFO  SignUpPage :57 - Clicking on Gender Male Button
+2023-06-11 15:06:650 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:380 INFO  SignUpPage :50 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (3b06107a13adcefe7f30611776a1f592)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:138 INFO  SignUpPage :56 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (3b06107a13adcefe7f30611776a1f592)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:330 INFO  SignUpPage :61 - Clicking on Continue Button
+2023-06-11 15:06:573 INFO  SignUpPage :67 - Clicking on Gender Male Button
+2023-06-11 15:06:13 INFO  SignUpPage :80 - Enter email [[ChromeDriver: chrome on WINDOWS (3b06107a13adcefe7f30611776a1f592)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:278 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:99 INFO  SignUpPage :56 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (5640cc9766d1fd5dc269645d93071da6)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:317 INFO  SignUpPage :62 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (5640cc9766d1fd5dc269645d93071da6)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:418 INFO  SignUpPage :67 - Clicking on Continue Button
+2023-06-11 15:06:647 INFO  SignUpPage :73 - Clicking on Gender Male Button
+2023-06-11 15:06:873 INFO  SignUpPage :86 - Enter email [[ChromeDriver: chrome on WINDOWS (5640cc9766d1fd5dc269645d93071da6)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:335 INFO  SignUpPage :91 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (5640cc9766d1fd5dc269645d93071da6)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:681 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:221 INFO  SignUpPage :60 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (92aa6f87d1dcf7244d1862d880b65881)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:461 INFO  SignUpPage :66 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (92aa6f87d1dcf7244d1862d880b65881)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:659 INFO  SignUpPage :71 - Clicking on Continue Button
+2023-06-11 15:06:931 INFO  SignUpPage :77 - Clicking on Gender Male Button
+2023-06-11 15:06:159 INFO  SignUpPage :90 - Enter email [[ChromeDriver: chrome on WINDOWS (92aa6f87d1dcf7244d1862d880b65881)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:75 INFO  SignUpPage :95 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (92aa6f87d1dcf7244d1862d880b65881)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:414 INFO  SignUpPage :101 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (92aa6f87d1dcf7244d1862d880b65881)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:658 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:508 INFO  SignUpPage :65 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (a0dc2c33933eca2b53b612ee3a50ecb5)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:96 INFO  SignUpPage :71 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (a0dc2c33933eca2b53b612ee3a50ecb5)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:300 INFO  SignUpPage :76 - Clicking on Continue Button
+2023-06-11 15:06:555 INFO  SignUpPage :82 - Clicking on Gender Male Button
+2023-06-11 15:06:820 INFO  SignUpPage :95 - Enter email [[ChromeDriver: chrome on WINDOWS (a0dc2c33933eca2b53b612ee3a50ecb5)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:454 INFO  SignUpPage :100 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (a0dc2c33933eca2b53b612ee3a50ecb5)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:799 INFO  SignUpPage :106 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (a0dc2c33933eca2b53b612ee3a50ecb5)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:831 INFO  SignUpPage :114 - Select DOB from to DOB field 
+2023-06-11 15:06:103 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:617 INFO  SignUpPage :65 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (756714d305a1ede5a873b0e91782bf13)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:02 INFO  SignUpPage :71 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (756714d305a1ede5a873b0e91782bf13)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:236 INFO  SignUpPage :76 - Clicking on Continue Button
+2023-06-11 15:06:528 INFO  SignUpPage :82 - Clicking on Gender Male Button
+2023-06-11 15:06:765 INFO  SignUpPage :95 - Enter email [[ChromeDriver: chrome on WINDOWS (756714d305a1ede5a873b0e91782bf13)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:406 INFO  SignUpPage :100 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (756714d305a1ede5a873b0e91782bf13)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:723 INFO  SignUpPage :106 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (756714d305a1ede5a873b0e91782bf13)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:748 INFO  SignUpPage :114 - Select DOB from to DOB field 
+2023-06-11 15:06:713 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:248 INFO  SignUpPage :73 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (a1cb4572cddc481e24b923928c0cf000)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:526 INFO  SignUpPage :79 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (a1cb4572cddc481e24b923928c0cf000)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:663 INFO  SignUpPage :84 - Clicking on Continue Button
+2023-06-11 15:06:956 INFO  SignUpPage :90 - Clicking on Gender Male Button
+2023-06-11 15:06:708 INFO  SignUpPage :103 - Enter email [[ChromeDriver: chrome on WINDOWS (a1cb4572cddc481e24b923928c0cf000)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:277 INFO  SignUpPage :108 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (a1cb4572cddc481e24b923928c0cf000)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:603 INFO  SignUpPage :114 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (a1cb4572cddc481e24b923928c0cf000)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:633 INFO  SignUpPage :122 - Select DOB from to DOB field 
+2023-06-11 15:06:606 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:945 INFO  SignUpPage :80 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (a821efebf28447b837e8a1185a0b89f9)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:356 INFO  SignUpPage :86 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (a821efebf28447b837e8a1185a0b89f9)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:579 INFO  SignUpPage :91 - Clicking on Continue Button
+2023-06-11 15:06:869 INFO  SignUpPage :97 - Clicking on Gender Male Button
+2023-06-11 15:06:139 INFO  SignUpPage :110 - Enter email [[ChromeDriver: chrome on WINDOWS (a821efebf28447b837e8a1185a0b89f9)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:532 INFO  SignUpPage :115 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (a821efebf28447b837e8a1185a0b89f9)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:885 INFO  SignUpPage :121 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (a821efebf28447b837e8a1185a0b89f9)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:803 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 15:06:567 INFO  SignUpPage :80 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='first_name']]
+2023-06-11 15:06:315 INFO  SignUpPage :86 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='last_name']]
+2023-06-11 15:06:500 INFO  SignUpPage :91 - Clicking on Continue Button
+2023-06-11 15:06:758 INFO  SignUpPage :97 - Clicking on Gender Male Button
+2023-06-11 15:06:13 INFO  SignUpPage :110 - Enter email [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 15:06:579 INFO  SignUpPage :115 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='password']]
+2023-06-11 15:06:956 INFO  SignUpPage :121 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='phone_number']]
+2023-06-11 15:06:985 INFO  SignUpPage :129 - Select DOB from to DOB field 
+2023-06-11 15:06:859 INFO  SignUpPage :137 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (f35cb93142d35579f8d869c731c32433)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:479 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:193 INFO  SignUpPage :86 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:343 INFO  SignUpPage :92 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:579 INFO  SignUpPage :97 - Clicking on Continue Button
+2023-06-11 16:06:826 INFO  SignUpPage :103 - Clicking on Gender Male Button
+2023-06-11 16:06:233 INFO  SignUpPage :116 - Enter email [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:932 INFO  SignUpPage :121 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:252 INFO  SignUpPage :127 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:284 INFO  SignUpPage :135 - Select DOB from to DOB field 
+2023-06-11 16:06:23 INFO  SignUpPage :143 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:427 INFO  SignUpPage :148 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:717 INFO  SignUpPage :148 - Enter town London to town field [[ChromeDriver: chrome on WINDOWS (b2623eb7271ee3afc8782904f5997036)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:955 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:513 INFO  SignUpPage :86 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:199 INFO  SignUpPage :92 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:469 INFO  SignUpPage :97 - Clicking on Continue Button
+2023-06-11 16:06:805 INFO  SignUpPage :103 - Clicking on Gender Male Button
+2023-06-11 16:06:81 INFO  SignUpPage :116 - Enter email [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:681 INFO  SignUpPage :121 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:25 INFO  SignUpPage :127 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:62 INFO  SignUpPage :135 - Select DOB from to DOB field 
+2023-06-11 16:06:998 INFO  SignUpPage :143 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:392 INFO  SignUpPage :148 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:676 INFO  SignUpPage :148 - Enter town London to town field [[ChromeDriver: chrome on WINDOWS (5d3276e45e7ae9e60867420a30190655)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:934 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:586 INFO  SignUpPage :86 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:410 INFO  SignUpPage :92 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:629 INFO  SignUpPage :97 - Clicking on Continue Button
+2023-06-11 16:06:896 INFO  SignUpPage :103 - Clicking on Gender Male Button
+2023-06-11 16:06:153 INFO  SignUpPage :116 - Enter email [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:649 INFO  SignUpPage :121 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:917 INFO  SignUpPage :127 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:939 INFO  SignUpPage :135 - Select DOB from to DOB field 
+2023-06-11 16:06:755 INFO  SignUpPage :143 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:117 INFO  SignUpPage :148 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:405 INFO  SignUpPage :153 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (da89176acb2ddfe5a7e0ec0ceecf9b27)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:01 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:286 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:540 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:761 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:63 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:327 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:818 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:129 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:167 INFO  SignUpPage :146 - Select DOB from to DOB field 
+2023-06-11 16:06:51 INFO  SignUpPage :154 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:436 INFO  SignUpPage :159 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:756 INFO  SignUpPage :164 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:15 INFO  SignUpPage :170 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (45a98aade2501920dd70a36e4613bc70)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:266 INFO  SignUpPage :178 - Clicking on Continue Button
+2023-06-11 16:06:884 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:747 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:205 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:450 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:715 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:23 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:610 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:11 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:42 INFO  SignUpPage :146 - Select DOB from to DOB field 
+2023-06-11 16:06:964 INFO  SignUpPage :154 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:344 INFO  SignUpPage :159 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:649 INFO  SignUpPage :164 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:966 INFO  SignUpPage :170 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (6e20ccb89082cf9d64a02ab4e8b50713)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:252 INFO  SignUpPage :178 - Clicking on Continue Button
+2023-06-11 16:06:177 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:925 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:496 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:744 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:52 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:301 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:868 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:241 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:276 INFO  SignUpPage :146 - Select DOB from to DOB field 
+2023-06-11 16:06:140 INFO  SignUpPage :154 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:514 INFO  SignUpPage :159 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:791 INFO  SignUpPage :164 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:76 INFO  SignUpPage :170 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (8beca90bad6c94a216b02d874e91d75d)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:336 INFO  SignUpPage :178 - Clicking on Continue Button
+2023-06-11 16:06:215 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:902 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:637 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:859 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:178 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:456 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:82 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:457 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:487 INFO  SignUpPage :148 - Select DOB from to DOB field 
+2023-06-11 16:06:318 INFO  SignUpPage :156 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:709 INFO  SignUpPage :161 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:11 INFO  SignUpPage :166 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:280 INFO  SignUpPage :172 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (2e832cd36546ceab9484fcd75dad1fa5)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:546 INFO  SignUpPage :180 - Clicking on Continue Button
+2023-06-11 16:06:162 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:705 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:562 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:792 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:56 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:345 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:860 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:216 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:250 INFO  SignUpPage :148 - Select DOB from to DOB field 
+2023-06-11 16:06:124 INFO  SignUpPage :156 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:555 INFO  SignUpPage :161 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:908 INFO  SignUpPage :166 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:180 INFO  SignUpPage :172 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (286952b2b198f367352ad534b42edcbd)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:466 INFO  SignUpPage :180 - Clicking on Continue Button
+2023-06-11 16:06:148 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:589 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:755 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:998 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:368 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:648 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:245 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:628 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:666 INFO  SignUpPage :148 - Select DOB from to DOB field 
+2023-06-11 16:06:538 INFO  SignUpPage :156 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:926 INFO  SignUpPage :161 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:209 INFO  SignUpPage :166 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:512 INFO  SignUpPage :172 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (2a18d21732bd2c80be98ffd7a93eca22)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:743 INFO  SignUpPage :180 - Clicking on Continue Button
+2023-06-11 16:06:843 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:586 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (91fbe1cd3cd3989cdb979bb741fa09f2)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:265 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (91fbe1cd3cd3989cdb979bb741fa09f2)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:496 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:810 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:48 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (91fbe1cd3cd3989cdb979bb741fa09f2)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:688 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (91fbe1cd3cd3989cdb979bb741fa09f2)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:16 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (91fbe1cd3cd3989cdb979bb741fa09f2)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:905 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:699 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:455 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:660 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:891 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:215 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:819 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:203 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:247 INFO  SignUpPage :149 - Select DOB from to DOB field 
+2023-06-11 16:06:136 INFO  SignUpPage :157 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:513 INFO  SignUpPage :162 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:801 INFO  SignUpPage :167 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:61 INFO  SignUpPage :173 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (14b0273fb390ebfdcd8b0c49acff0afe)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:297 INFO  SignUpPage :181 - Clicking on Continue Button
+2023-06-11 16:06:235 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:899 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:823 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:38 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:304 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:593 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:138 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:500 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:531 INFO  SignUpPage :149 - Select DOB from to DOB field 
+2023-06-11 16:06:372 INFO  SignUpPage :157 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:774 INFO  SignUpPage :162 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:55 INFO  SignUpPage :167 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:304 INFO  SignUpPage :173 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (44e753503060210248cc4994f9f8a8f3)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:575 INFO  SignUpPage :181 - Clicking on Continue Button
+2023-06-11 16:06:447 INFO  HomePage :37 - Mouse Hover And Click On Sign Up
+2023-06-11 16:06:56 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='first_name']]
+2023-06-11 16:06:877 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='last_name']]
+2023-06-11 16:06:98 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-11 16:06:341 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-11 16:06:627 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-11 16:06:249 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='password']]
+2023-06-11 16:06:619 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='phone_number']]
+2023-06-11 16:06:659 INFO  SignUpPage :150 - Select DOB from to DOB field 
+2023-06-11 16:06:452 INFO  SignUpPage :158 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='address1']]
+2023-06-11 16:06:828 INFO  SignUpPage :163 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='address2']]
+2023-06-11 16:06:85 INFO  SignUpPage :168 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='address3']]
+2023-06-11 16:06:367 INFO  SignUpPage :174 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (968c4bd4dfd61a5f26022f598ac7e17c)] -> xpath: //input[@id='postcode']]
+2023-06-11 16:06:631 INFO  SignUpPage :182 - Clicking on Continue Button
+2023-06-11 17:06:07 INFO  HomePage :41 - Mouse Hover And Click On Login Page
+2023-06-11 17:06:134 INFO  HomePage :41 - Mouse Hover And Click On Login Page
+2023-06-11 17:06:62 INFO  HomePage :41 - Mouse Hover And Click On Login Page
+2023-06-11 17:06:278 INFO  HomePage :41 - Mouse Hover And Click On Login Page
+2023-06-11 17:06:486 INFO  LoginPage :29 - Enter username name john@123gmail.com to username field Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='buttons__login_bar--login bvs-button is-primary']'
+2023-06-11 17:06:324 INFO  HomePage :41 - Mouse Hover And Click On Login Page
+2023-06-11 17:06:473 INFO  LoginPage :29 - Enter username name john@123gmail.com to username field Proxy element for: DefaultElementLocator 'By.id: username'
+2023-06-12 17:06:670 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 17:06:279 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='first_name']]
+2023-06-12 17:06:40 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='last_name']]
+2023-06-12 17:06:266 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-12 17:06:518 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-12 17:06:786 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 17:06:382 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='password']]
+2023-06-12 17:06:750 INFO  SignUpPage :138 - Enter mobile number -1113255803 to mobile number field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='phone_number']]
+2023-06-12 17:06:802 INFO  SignUpPage :150 - Select DOB from to DOB field 
+2023-06-12 17:06:526 INFO  SignUpPage :158 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='address1']]
+2023-06-12 17:06:868 INFO  SignUpPage :163 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='address2']]
+2023-06-12 17:06:114 INFO  SignUpPage :168 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='address3']]
+2023-06-12 17:06:309 INFO  SignUpPage :174 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (717350eb1a801df41af081b34696e22d)] -> xpath: //input[@id='postcode']]
+2023-06-12 17:06:561 INFO  SignUpPage :182 - Clicking on Continue Button
+2023-06-12 17:06:158 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 17:06:547 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='first_name']]
+2023-06-12 17:06:445 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='last_name']]
+2023-06-12 17:06:650 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-12 17:06:891 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-12 17:06:157 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 17:06:712 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='password']]
+2023-06-12 17:06:28 INFO  SignUpPage :138 - Enter mobile number -737275660 to mobile number field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='phone_number']]
+2023-06-12 17:06:72 INFO  SignUpPage :150 - Select DOB from to DOB field 
+2023-06-12 17:06:924 INFO  SignUpPage :158 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='address1']]
+2023-06-12 17:06:310 INFO  SignUpPage :163 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='address2']]
+2023-06-12 17:06:563 INFO  SignUpPage :168 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='address3']]
+2023-06-12 17:06:799 INFO  SignUpPage :174 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (ce3d84ff09c6f006997f22641ffe15c8)] -> xpath: //input[@id='postcode']]
+2023-06-12 17:06:53 INFO  SignUpPage :182 - Clicking on Continue Button
+2023-06-12 18:06:382 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 18:06:733 INFO  SignUpPage :97 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='first_name']]
+2023-06-12 18:06:718 INFO  SignUpPage :103 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='last_name']]
+2023-06-12 18:06:961 INFO  SignUpPage :108 - Clicking on Continue Button
+2023-06-12 18:06:248 INFO  SignUpPage :114 - Clicking on Gender Male Button
+2023-06-12 18:06:495 INFO  SignUpPage :127 - Enter email [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 18:06:68 INFO  SignUpPage :132 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='password']]
+2023-06-12 18:06:387 INFO  SignUpPage :138 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='phone_number']]
+2023-06-12 18:06:686 INFO  SignUpPage :148 - Select DOB from to DOB field 
+2023-06-12 18:06:607 INFO  SignUpPage :156 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='address1']]
+2023-06-12 18:06:935 INFO  SignUpPage :161 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='address2']]
+2023-06-12 18:06:189 INFO  SignUpPage :166 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='address3']]
+2023-06-12 18:06:416 INFO  SignUpPage :172 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (ac4f78176b1fad3b5edcf3a674b2fcc4)] -> xpath: //input[@id='postcode']]
+2023-06-12 18:06:636 INFO  SignUpPage :180 - Clicking on Continue Button
+2023-06-12 19:06:891 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 19:06:444 INFO  SignUpPage :108 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='first_name']]
+2023-06-12 19:06:577 INFO  SignUpPage :114 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='last_name']]
+2023-06-12 19:06:820 INFO  SignUpPage :119 - Clicking on Continue Button
+2023-06-12 19:06:172 INFO  SignUpPage :125 - Clicking on Gender Male Button
+2023-06-12 19:06:480 INFO  SignUpPage :138 - Enter email [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 19:06:190 INFO  SignUpPage :143 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='password']]
+2023-06-12 19:06:572 INFO  SignUpPage :149 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='phone_number']]
+2023-06-12 19:06:861 INFO  SignUpPage :157 - Select DOB from to DOB field 
+2023-06-12 19:06:824 INFO  SignUpPage :165 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='address1']]
+2023-06-12 19:06:255 INFO  SignUpPage :170 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='address2']]
+2023-06-12 19:06:583 INFO  SignUpPage :175 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='address3']]
+2023-06-12 19:06:855 INFO  SignUpPage :181 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (cf7364f38a24c21de222a501963f0dbd)] -> xpath: //input[@id='postcode']]
+2023-06-12 19:06:139 INFO  SignUpPage :187 - Clicking on Continue Button
+2023-06-12 19:06:308 INFO  SignUpPage :193 - Clicking on I want to receive checkbox
+2023-06-12 19:06:597 INFO  SignUpPage :199 - Clicking on Terms & Condition checkbox
+2023-06-12 19:06:696 INFO  SignUpPage :205 - Clicking on Create  Account Button
+2023-06-12 19:06:552 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 19:06:321 INFO  SignUpPage :114 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='first_name']]
+2023-06-12 19:06:561 INFO  SignUpPage :120 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='last_name']]
+2023-06-12 19:06:824 INFO  SignUpPage :125 - Clicking on Continue Button
+2023-06-12 19:06:246 INFO  SignUpPage :131 - Clicking on Gender Male Button
+2023-06-12 19:06:548 INFO  SignUpPage :144 - Enter email [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 19:06:224 INFO  SignUpPage :149 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='password']]
+2023-06-12 19:06:563 INFO  SignUpPage :155 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='phone_number']]
+2023-06-12 19:06:831 INFO  SignUpPage :163 - Select DOB from to DOB field 
+2023-06-12 19:06:652 INFO  SignUpPage :171 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='address1']]
+2023-06-12 19:06:999 INFO  SignUpPage :176 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='address2']]
+2023-06-12 19:06:252 INFO  SignUpPage :181 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='address3']]
+2023-06-12 19:06:498 INFO  SignUpPage :187 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (427c1f939686eaddfa09dbc5942ed55f)] -> xpath: //input[@id='postcode']]
+2023-06-12 19:06:745 INFO  SignUpPage :193 - Clicking on Continue Button
+2023-06-12 19:06:902 INFO  SignUpPage :199 - Clicking on I want to receive checkbox
+2023-06-12 19:06:114 INFO  SignUpPage :205 - Clicking on Terms & Condition checkbox
+2023-06-12 19:06:214 INFO  SignUpPage :211 - Clicking on Create  Account Button
+2023-06-12 19:06:340 INFO  SignUpPage :217 - Clicking on Close Button
+2023-06-12 19:06:59 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 19:06:418 INFO  SignUpPage :117 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='first_name']]
+2023-06-12 19:06:648 INFO  SignUpPage :123 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='last_name']]
+2023-06-12 19:06:828 INFO  SignUpPage :128 - Clicking on Continue Button
+2023-06-12 19:06:250 INFO  SignUpPage :134 - Clicking on Gender Male Button
+2023-06-12 19:06:402 INFO  SignUpPage :147 - Enter email [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 19:06:834 INFO  SignUpPage :152 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='password']]
+2023-06-12 19:06:95 INFO  SignUpPage :158 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='phone_number']]
+2023-06-12 19:06:274 INFO  SignUpPage :166 - Select DOB from to DOB field 
+2023-06-12 19:06:884 INFO  SignUpPage :174 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='address1']]
+2023-06-12 19:06:134 INFO  SignUpPage :179 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='address2']]
+2023-06-12 19:06:310 INFO  SignUpPage :184 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='address3']]
+2023-06-12 19:06:472 INFO  SignUpPage :190 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (2bc84ec839513cd0c6d02923dfb0c040)] -> xpath: //input[@id='postcode']]
+2023-06-12 19:06:657 INFO  SignUpPage :196 - Clicking on Continue Button
+2023-06-12 19:06:778 INFO  SignUpPage :202 - Clicking on I want to receive checkbox
+2023-06-12 19:06:17 INFO  SignUpPage :208 - Clicking on Terms & Condition checkbox
+2023-06-12 19:06:71 INFO  SignUpPage :214 - Clicking on Create  Account Button
+2023-06-12 19:06:151 INFO  SignUpPage :220 - Clicking on Close Button
+2023-06-12 19:06:100 INFO  SignUpPage :227 - get actual title text of HeartBingo
+2023-06-12 19:06:586 INFO  HomePage :48 - Mouse Hover And Click On Sign Up
+2023-06-12 19:06:73 INFO  SignUpPage :117 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='first_name']]
+2023-06-12 19:06:507 INFO  SignUpPage :123 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='last_name']]
+2023-06-12 19:06:673 INFO  SignUpPage :128 - Clicking on Continue Button
+2023-06-12 19:06:864 INFO  SignUpPage :134 - Clicking on Gender Male Button
+2023-06-12 19:06:18 INFO  SignUpPage :147 - Enter email [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-12 19:06:404 INFO  SignUpPage :152 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='password']]
+2023-06-12 19:06:676 INFO  SignUpPage :158 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='phone_number']]
+2023-06-12 19:06:858 INFO  SignUpPage :166 - Select DOB from to DOB field 
+2023-06-12 19:06:407 INFO  SignUpPage :174 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='address1']]
+2023-06-12 19:06:652 INFO  SignUpPage :179 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='address2']]
+2023-06-12 19:06:879 INFO  SignUpPage :184 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='address3']]
+2023-06-12 19:06:39 INFO  SignUpPage :190 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (9bd8f34ea03cc5d58f1753bbc8e80c9c)] -> xpath: //input[@id='postcode']]
+2023-06-12 19:06:185 INFO  SignUpPage :196 - Clicking on Continue Button
+2023-06-12 19:06:304 INFO  SignUpPage :202 - Clicking on I want to receive checkbox
+2023-06-12 19:06:513 INFO  SignUpPage :208 - Clicking on Terms & Condition checkbox
+2023-06-12 19:06:563 INFO  SignUpPage :214 - Clicking on Create  Account Button
+2023-06-12 19:06:642 INFO  SignUpPage :220 - Clicking on Close Button
+2023-06-16 19:06:231 INFO  HomePage :42 - Mouse Hover And Click On Sign Up
+2023-06-16 19:06:772 INFO  SignUpPage :117 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='first_name']]
+2023-06-16 19:06:514 INFO  SignUpPage :123 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='last_name']]
+2023-06-16 19:06:656 INFO  SignUpPage :128 - Clicking on Continue Button
+2023-06-16 19:06:858 INFO  SignUpPage :134 - Clicking on Gender Male Button
+2023-06-16 19:06:38 INFO  SignUpPage :147 - Enter email [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-16 19:06:434 INFO  SignUpPage :152 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='password']]
+2023-06-16 19:06:670 INFO  SignUpPage :158 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='phone_number']]
+2023-06-16 19:06:832 INFO  SignUpPage :166 - Select DOB from to DOB field 
+2023-06-16 19:06:328 INFO  SignUpPage :174 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='address1']]
+2023-06-16 19:06:543 INFO  SignUpPage :179 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='address2']]
+2023-06-16 19:06:710 INFO  SignUpPage :184 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='address3']]
+2023-06-16 19:06:868 INFO  SignUpPage :190 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (b05f2ffca8101ab6164b0f5d1f6ceb72)] -> xpath: //input[@id='postcode']]
+2023-06-16 19:06:11 INFO  SignUpPage :196 - Clicking on Continue Button
+2023-06-16 19:06:93 INFO  SignUpPage :202 - Clicking on I want to receive checkbox
+2023-06-16 19:06:329 INFO  SignUpPage :208 - Clicking on Terms & Condition checkbox
+2023-06-16 19:06:384 INFO  SignUpPage :214 - Clicking on Create  Account Button
+2023-06-16 19:06:446 INFO  SignUpPage :220 - Clicking on Close Button
+2023-06-16 19:06:608 INFO  HomePage :42 - Mouse Hover And Click On Sign Up
+2023-06-16 19:06:943 INFO  SignUpPage :117 - Enter first name John to firstName field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='first_name']]
+2023-06-16 19:06:521 INFO  SignUpPage :123 - Enter first name Smith to lastName field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='last_name']]
+2023-06-16 19:06:655 INFO  SignUpPage :128 - Clicking on Continue Button
+2023-06-16 19:06:835 INFO  SignUpPage :134 - Clicking on Gender Male Button
+2023-06-16 19:06:988 INFO  SignUpPage :147 - Enter email [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='regpath_form_email_input']]
+2023-06-16 19:06:400 INFO  SignUpPage :152 - Enter password Password12345 to password field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='password']]
+2023-06-16 19:06:624 INFO  SignUpPage :158 - Enter mobile number 7852658932 to mobile number field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='phone_number']]
+2023-06-16 19:06:782 INFO  SignUpPage :166 - Select DOB from to DOB field 
+2023-06-16 19:06:229 INFO  SignUpPage :174 - Enter first name 45,Alendale Road to address field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='address1']]
+2023-06-16 19:06:434 INFO  SignUpPage :179 - Enter town sudbury to town field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='address2']]
+2023-06-16 19:06:590 INFO  SignUpPage :184 - Enter city London to city field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='address3']]
+2023-06-16 19:06:739 INFO  SignUpPage :190 - Enter city sw9 2PW to city field [[ChromeDriver: chrome on WINDOWS (955ccb80e9eb0e05f1b00b7169743496)] -> xpath: //input[@id='postcode']]
+2023-06-16 19:06:890 INFO  SignUpPage :196 - Clicking on Continue Button
+2023-06-16 19:06:977 INFO  SignUpPage :202 - Clicking on I want to receive checkbox
+2023-06-16 19:06:140 INFO  SignUpPage :208 - Clicking on Terms & Condition checkbox
+2023-06-16 19:06:221 INFO  SignUpPage :214 - Clicking on Create  Account Button
+2023-06-16 19:06:297 INFO  SignUpPage :220 - Clicking on Close Button

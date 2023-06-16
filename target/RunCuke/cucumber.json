@@ -1,0 +1,348 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3630974600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User successfully sign up to successfully",
+        "description": "",
+        "id": "signup-test;user-successfully-sign-up-to-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 163800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 92856900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "SignUpSteps.iAmOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 216921700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on SignUp link",
+            "match": {
+              "location": "SignUpSteps.iClickOnSignUpLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 460102400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter \"John\" in firstname field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "John",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInFirstnameField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 437926100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter \"Smith\" in lastname field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Smith",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInLastnameField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 178818700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I Clicking On Continue Button",
+            "match": {
+              "location": "SignUpSteps.iClickingOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 127205200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I Click ON Gender Male Button",
+            "match": {
+              "location": "SignUpSteps.iClickONGenderMaleButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 408490800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter \"random email\" into email Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "random email",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterIntoEmailField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 190536500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter \"Password12345\" into password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Password12345",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterIntoPasswordField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1212633100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter \"7852658932\" in Mobile Number Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7852658932",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInMobileNumberField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 428592300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter Date Of Birth in DOB field",
+            "match": {
+              "location": "SignUpSteps.iEnterDateOfBirthInDOBField()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 193723600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter \"45,Alendale Road\" in address field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "45,Alendale Road",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInAddressField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 163018000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I enter \"sudbury\" in Town Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sudbury",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInTownField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141613400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter \"London\" in city field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "London",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInCityField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169238000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter \"sw9 2PW\" in PostCode Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sw9 2PW",
+                  "offset": 9
+                }
+              ],
+              "location": "SignUpSteps.iEnterInPostCodeField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 89811400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on continue tab on page",
+            "match": {
+              "location": "SignUpSteps.iClickOnContinueTabOnPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 160261600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click On Marketing Communication Checkbox",
+            "match": {
+              "location": "SignUpSteps.iClickOnMarketingCommunicationCheckbox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80635500,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click On Terms And Condition CheckBox",
+            "match": {
+              "location": "SignUpSteps.iClickOnTermsAndConditionCheckBox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75822300,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I Click on Create Account Button",
+            "match": {
+              "location": "SignUpSteps.iClickOnCreateAccountButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5439249500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click On Cross Button in Upload Doc Popup",
+            "match": {
+              "location": "SignUpSteps.iClickOnCrossButtonInUploadDocPopup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 25500,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Verify Message Welcome to Heart Bingo, John on Popup",
+            "match": {
+              "location": "SignUpSteps.verifyMessageWelcomeToHeartBingoJohnOnPopup()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@sanity"
+          },
+          {
+            "line": 4,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "SignUp Test",
+    "description": "As a user navigation to SignUp Page",
+    "id": "signup-test",
+    "keyword": "Feature",
+    "uri": "signup.feature"
+  }
+]
